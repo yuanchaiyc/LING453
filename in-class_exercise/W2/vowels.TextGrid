@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.260861678004535 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 4.260861678004535 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.260861678004535 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 4.260861678004535 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11297516981164099 
+            text = "" 
+        intervals [2]:
+            xmin = 0.11297516981164099 
+            xmax = 0.7895716562476242 
+            text = "masa" 
+        intervals [3]:
+            xmin = 0.7895716562476242 
+            xmax = 0.9340531976219747 
+            text = "" 
+        intervals [4]:
+            xmin = 0.9340531976219747 
+            xmax = 1.5331230033205014 
+            text = "mesa" 
+        intervals [5]:
+            xmin = 1.5331230033205014 
+            xmax = 1.7938945658010366 
+            text = "" 
+        intervals [6]:
+            xmin = 1.7938945658010366 
+            xmax = 2.3718207312984387 
+            text = "misa" 
+        intervals [7]:
+            xmin = 2.3718207312984387 
+            xmax = 2.548017732974476 
+            text = "" 
+        intervals [8]:
+            xmin = 2.548017732974476 
+            xmax = 3.161183298807086 
+            text = "mosca" 
+        intervals [9]:
+            xmin = 3.161183298807086 
+            xmax = 3.4149069812205797 
+            text = "" 
+        intervals [10]:
+            xmin = 3.4149069812205797 
+            xmax = 3.9505458663157325 
+            text = "musa" 
+        intervals [11]:
+            xmin = 3.9505458663157325 
+            xmax = 4.260861678004535 
+            text = "" 
